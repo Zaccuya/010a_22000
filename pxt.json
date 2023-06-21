@@ -1,5 +1,6 @@
 {
     "name": "010a_220000",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
